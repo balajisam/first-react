@@ -1,1 +1,1 @@
-print("python app deployed from App Engine")
+print("python app deployed from GCP ")
