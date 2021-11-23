@@ -7,7 +7,7 @@ app = flask.Flask(__name__)
 
 @app.route("/", methods=["GET"])
 def hello():
-    """ Return a friendly HTTP greeting. """
+    """ Welcome to automated CI/CD integrating github with Cloud Source, Cloud Build & deploying to App Engine. """
     return "Hello World!\n"
 
 
